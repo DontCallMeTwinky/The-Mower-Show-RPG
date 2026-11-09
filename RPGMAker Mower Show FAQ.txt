@@ -53,7 +53,7 @@ But none of this matters.
 FAQ
 
 Q: Where can I download this?
-A: On Team Sponkel's official website, which doesn'e exist at the time of writing.
+A: It is/will be available here: https://rpgmaker.net/games/13451/
 
 Q: I want to donate $100,000 to Team Sponkel because you'd have to be a disgusting, miserable person to fail to donate at least $1,000 to Team Sponkel every month. How do I do this?
 A: Well I'm glad you asked, internet person, you see all you have to do is... hang on, let me get the door, the doorbell's ringing.
@@ -80,35 +80,35 @@ You can't reach the old woman outside of the building unless you cheat.
 
 Now go onto the overworld. There's a town just outside the barracks that I couldn't be bothered to create so you have to go through some clunky menus to do anything there. There's an inn and a shop.
 
-Check the spots on the far left of the map for a secret item. You'd never find that one without me unless you were as OCD as me.
+Check the spots on the far left of the world map for a secret item. You'd never find that one without me unless you followed a certain in-game hint.
 
-Well, with all that, you're ready for the first dungeon, which is Cobbly Cave itself, on the far right. But you'll get kicked out if you didn't find a special item in the barracks at the start. 
+Well, with all that, you're ready for the first dungeon, which is Cobbly Cave itself, on the far right of the world. But you'll get kicked out if you didn't find a special item in the barracks at the start. 
 
-Once inside, you'll be dealing with oversized dogeones in combat, but they're not bad. If you attack and heal sensibly, you should be fine, but that's the sort of advice that wouldn't have meant a thing to child me, because I'd be like level 8 before I even went in the cave.
+Once inside, you'll be dealing with oversized dogeones (dogs with human-like intelligence) in combat, but they're not bad. If you attack and heal sensibly, you should be fine, but that's the sort of advice that wouldn't have meant a thing to child me, because I'd be like level 8 before I even went in the cave.
 
-Push the stone all the way to the switch at the bottom of the room, and the spikes will go away so you can keep progressing. Check the statue in the middle 5 times and you'll get something out of it.
+In the 2nd screen of the cave, push the stone all the way to the switch at the bottom, and the spikes will go away so you can keep progressing. Check the barrel in the middle 5 times and you'll get something out of it.
 
-In the next room, ACTION the statue in the recess to move it out of the way, and check ahead of it for an item. Save. Now, protip: you don't want to open the chest. So take the teleporter I conveniently added to get out for now.
+In the next room, ACTION the statue in the recess to move it out of the way, and check ahead of it for an item. Save. Now, protip: you don't want to open the chest. So take the teleporter summoning circle I conveniently added to get out for now.
 
-So, was that pointless? Basically yes. But if you weren't a moron who failed to waste their time fighting the random encounters, you'll have levelled up and you'll have some gold now, so you're ready for the next dungeon: the tower in the bottom left of the map.
+So, was that pointless? Basically yes. But if you weren't a coward who failed to waste their time fighting the random encounters, you'll have levelled up and you'll have some gold now, so you're ready for the next dungeon: the tower in the bottom left of the map.
 
-At the temple's impressive 2D sidescrolling entrance, walk up into the sky on the one spot where you can do this, and go check the cactus for an item. Then go in the temple.
+At the temple's impressive 2D sidescrolling entrance, walk up into the sky on the one spot where you can do this, and go check the cactus for some useful equipmment. Then go in the temple.
 
-The snakes here can and will poison you, which you can either try to leave alone and manage with healing their HP, or you can cure it with antidoes or Grace's Cure LVL 1.
+The snakes here can and will poison you, which you can either try to leave uncured and attempt to manage with healing the afflicted's HP, or you can cure it with antidotes or Grace's Heal LVL 1.
 
 Get through the tower and up at the top there's a statue that will give you a little help. After you're done with the statue (or before it, whatever), go down and left of it and check behind the pillar down there for an item.
 
 Temple done, now you'll want to go to the forest. Just do it for an item in a bush at the end. Nothing else to say. New enemies. Heal and attack. At least it's easy to gain levels in this game if anything's really troubling you.
 
-Well, you might find now that there's nothing new on the map, so it's time for the cave now, right? Well, after you've upgraded your equipment and bought more items, you might possibly have a chance. 
+Well, you might find now that there's nothing new on the world map, so it's time for the cave now, right? Well, after you've upgraded your equipment and bought more items, you might possibly have a chance. 
 
-But NO!!!!! It's not the end yet, mole face. For one thing, there's a bridge you can try using, only to get accosted by some thieves. Go there and teach them who's the what of the biscuits, and you'll have done some good for the community, just like your teachers told you you should do.
+But NO!!!!! It's not the end yet, mole face. For one thing, there's a bridge you can try using, only to get accosted by some thieves. Go there and teach them who's the what of the biscuits, and you'll have done some good for the community, just like your school teachers told you you should do. But you didn't listen to them, did you. You thought you knew better, didn't you.
 
-Like in the barracks, there's another arrow puzzle on this bridge, so if you solve that and check the correct spot on the left side of the bridge, you'll find an item there.
+Like in the barracks, there's another arrow puzzle on the bandit bridge, so if you solve that and check the correct spot on the left side of the bridge, you'll find an item there.
 
-Now go back to the inn keeper at the barracks and he'll know you slammed the bothersome thieves, and he'll even open a path to the secret bonus dungeon.
+Now go back to the inn keeper at the barracks and he'll find out you slammed the bothersome thieves; he'll even open a path to the secret bonus dungeon!
 
-Go there. Stand on the switch and find out where it appears every time it teleports. One of those places is down at the entrance to the temple so be wary for that one. One that tomfoolery's done, go up through the door and fight the boss and get the super sword. However IT'S NOT OVER YET! Because go up to the top right and press the ACTION button and you'll get another weapon for Grace. Woh hoh hey!!!!
+Go there. Stand on the switch and find out where it appears every time it teleports. One of those places is down at the entrance to the temple so be wary for that one. Once that tomfoolery's done, go up through the door and fight the boss and get the super sword. However IT'S NOT OVER YET! Because go up to the top right and press the ACTION button and you'll get another weapon for Grace. Woh hoh hey!!!!
 
 Good!!!!! Are we all done!?!?!
 
