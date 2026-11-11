@@ -56,7 +56,7 @@ Q: Where can I download this game?
 A: It's available here: https://rpgmaker.net/games/13451/
 
 Q: How do I play this game?
-A: Download the .7z file on main game profile page, extract it, and run the "RPG_RT.exe" file. Use your system's arrow keys (or touch screen, whatever) to move and navigate the menus. The "Enter" and "Space" keys are the ACTION button, while the "Esc" key is the CANCEL button and it also opens the menu. You can probably figure out the rest for yourself.
+A: Download the .7z file on the game's profile page, extract it, and run the "RPG_RT.exe" file. Use your system's arrow keys (or touch screen, whatever) to move and navigate the menus. The "Enter" and "Space" keys are the ACTION button, while the "Esc" key is the CANCEL button and it also opens the menu. You can probably figure out the rest for yourself.
 
 Q: I want to donate $100,000 to Team Sponkel because you'd have to be a disgusting, miserable person to fail to donate at least $1,000 to Team Sponkel every month. How do I do this?
 A: Well I'm glad you asked, internet person, you see all you have to do is... hang on, let me get the door, the doorbell's ringing.
